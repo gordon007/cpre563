@@ -1,4 +1,4 @@
-# cpre563
+# CPRE563
 CPRE 563 - Further Exploration of Sensitivity-Induced Name Collisions
 
 # Setup
